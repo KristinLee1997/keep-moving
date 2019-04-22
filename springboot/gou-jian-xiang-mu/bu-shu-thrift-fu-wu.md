@@ -51,7 +51,7 @@
         <noJekyll>true</noJekyll>  
         <outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>  
         <branch>refs/heads/master</branch>  
-        <merge>true</merge>  
+        <merge>true</merge>  # 这里一定要写merge为true，不然会将远程清空重新部署的
         <includes> 
           <include>**/*</include> 
         </includes>  
