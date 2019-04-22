@@ -2,7 +2,7 @@
 
 1.首先在pom.xml中添加依赖
 
-```text
+```markup
 <dependency>
     <groupId>org.apache.thrift</groupId>
     <artifactId>libthrift</artifactId>
@@ -11,7 +11,7 @@
 
 2.在plugin中添加插件
 
-```text
+```markup
 <build>
         <plugins>
                <plugin>
@@ -47,7 +47,7 @@
 
 3.在本地安装thrift
 
-```text
+```bash
 brew install thrift
 ```
 

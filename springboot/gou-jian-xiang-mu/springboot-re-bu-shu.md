@@ -2,7 +2,7 @@
 
 1.添加依赖 
 
-```text
+```markup
 <dependency>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-devtools</artifactId>
