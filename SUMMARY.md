@@ -13,3 +13,7 @@
 
 * [常用docker命令](docker/chang-yong-docker-ming-ling.md)
 
+## Github相关
+
+* [不小心把私密文件上传github怎么办？](github-xiang-guan/bu-xiao-xin-ba-si-mi-wen-jian-shang-chuan-github-zen-me-ban.md)
+
