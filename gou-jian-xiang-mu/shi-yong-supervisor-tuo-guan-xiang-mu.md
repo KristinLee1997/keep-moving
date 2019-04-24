@@ -10,7 +10,7 @@
 
 注意：配置中的路径尽量要写绝对路径啊。。。
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 2.执行以下命令
 
@@ -22,7 +22,7 @@ supervisorctl -c supervisord配置文件路径
 
 执行status查看项目是否运行，显示RUNNING就是正常运行啦
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 
 

@@ -55,9 +55,9 @@ brew install thrift
 
 4.如果本地没有安装thrift，直接运行mvn clean install， 就会报下面的异常
 
-![](../../.gitbook/assets/wechatimg41.png)
+![](../.gitbook/assets/wechatimg41.png)
 
-![](../../.gitbook/assets/wechatimg42.png)
+![](../.gitbook/assets/wechatimg42.png)
 
 ˙找了好一会才发现原因是本地没有安装thrift，心累，忘记了什么时候给uninstall了，记录一下，下次不要在犯同样的错误了
 

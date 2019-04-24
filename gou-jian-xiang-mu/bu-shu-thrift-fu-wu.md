@@ -4,7 +4,7 @@
 
 配置settings.xml
 
-{% file src="../../.gitbook/assets/settings.xml" %}
+{% file src="../.gitbook/assets/settings.xml" %}
 
 在pom.xml中增加以下内容
 
@@ -98,9 +98,9 @@
 
 1.首先将本地项目打成jar，我的项目是springboot项目,所以在本地进行下面的操作
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
-![](../../.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 Build--&gt;Build Artifacts --&gt;项目名.jar--&gt;build
 

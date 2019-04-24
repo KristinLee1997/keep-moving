@@ -2,14 +2,15 @@
 
 * [Keep-Moving](README.md)
 
-## SpringBoot
+## 构建项目
 
-* [构建项目](springboot/gou-jian-xiang-mu/README.md)
-  * [Mybatis-Generator插件使用方式](springboot/gou-jian-xiang-mu/mybatisgenerator-cha-jian-shi-yong-fang-shi.md)
-  * [部署thrift服务](springboot/gou-jian-xiang-mu/bu-shu-thrift-fu-wu.md)
-  * [Thrift插件生成Java代码](springboot/gou-jian-xiang-mu/thrift-cha-jian-sheng-cheng-java-dai-ma.md)
-  * [使用supervisor托管项目](springboot/gou-jian-xiang-mu/shi-yong-supervisor-tuo-guan-xiang-mu.md)
-  * [springboot热部署](springboot/gou-jian-xiang-mu/springboot-re-bu-shu.md)
+* [Mybatis-Generator插件使用方式](gou-jian-xiang-mu/mybatisgenerator-cha-jian-shi-yong-fang-shi.md)
+* [Thrift插件生成Java代码](gou-jian-xiang-mu/thrift-cha-jian-sheng-cheng-java-dai-ma.md)
+* [使用supervisor托管项目](gou-jian-xiang-mu/shi-yong-supervisor-tuo-guan-xiang-mu.md)
+* [springboot热部署](gou-jian-xiang-mu/springboot-re-bu-shu.md)
+* [部署thrift服务](gou-jian-xiang-mu/bu-shu-thrift-fu-wu.md)
+* [Untitled](gou-jian-xiang-mu/untitled.md)
+* [配置Mybatis](gou-jian-xiang-mu/pei-zhi-mybatis.md)
 
 ## Docker
 
@@ -22,8 +23,4 @@
 ## Git
 
 * [git分支替换](git/git-fen-zhi-ti-huan.md)
-
-## Mybatis
-
-* [配置Mybatis](mybatis/pei-zhi-mybatis.md)
 
