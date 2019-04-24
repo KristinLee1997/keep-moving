@@ -9,7 +9,6 @@
 * [使用supervisor托管项目](gou-jian-xiang-mu/shi-yong-supervisor-tuo-guan-xiang-mu.md)
 * [springboot热部署](gou-jian-xiang-mu/springboot-re-bu-shu.md)
 * [部署thrift服务](gou-jian-xiang-mu/bu-shu-thrift-fu-wu.md)
-* [Untitled](gou-jian-xiang-mu/untitled.md)
 * [配置Mybatis](gou-jian-xiang-mu/pei-zhi-mybatis.md)
 
 ## Docker
