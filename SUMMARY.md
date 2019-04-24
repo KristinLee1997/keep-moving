@@ -23,3 +23,7 @@
 
 * [git分支替换](git/git-fen-zhi-ti-huan.md)
 
+## Mybatis
+
+* [配置Mybatis](mybatis/pei-zhi-mybatis.md)
+
