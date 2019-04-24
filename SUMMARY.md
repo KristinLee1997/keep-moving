@@ -5,6 +5,7 @@
 ## SpringBoot
 
 * [构建项目](springboot/gou-jian-xiang-mu/README.md)
+  * [Mybatis-Generator插件使用方式](springboot/gou-jian-xiang-mu/mybatisgenerator-cha-jian-shi-yong-fang-shi.md)
   * [部署thrift服务](springboot/gou-jian-xiang-mu/bu-shu-thrift-fu-wu.md)
   * [Thrift插件生成Java代码](springboot/gou-jian-xiang-mu/thrift-cha-jian-sheng-cheng-java-dai-ma.md)
   * [使用supervisor托管项目](springboot/gou-jian-xiang-mu/shi-yong-supervisor-tuo-guan-xiang-mu.md)
