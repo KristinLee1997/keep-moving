@@ -4,6 +4,7 @@
 
 ## 构建项目
 
+* [配置项目，将jar发布到github仓库](gou-jian-xiang-mu/pei-zhi-xiang-mu-jiang-jar-fa-bu-dao-github-cang-ku.md)
 * [Mybatis-Generator插件使用方式](gou-jian-xiang-mu/mybatisgenerator-cha-jian-shi-yong-fang-shi.md)
 * [Thrift插件生成Java代码](gou-jian-xiang-mu/thrift-cha-jian-sheng-cheng-java-dai-ma.md)
 * [使用supervisor托管项目](gou-jian-xiang-mu/shi-yong-supervisor-tuo-guan-xiang-mu.md)
