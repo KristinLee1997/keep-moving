@@ -4,6 +4,7 @@
 
 ## 构建项目
 
+* [Springboot项目Mybatis添加分页功能](gou-jian-xiang-mu/springboot-xiang-mu-mybatis-tian-jia-fen-ye-gong-neng.md)
 * [配置项目，将jar发布到github仓库](gou-jian-xiang-mu/pei-zhi-xiang-mu-jiang-jar-fa-bu-dao-github-cang-ku.md)
 * [Mybatis-Generator插件使用方式](gou-jian-xiang-mu/mybatisgenerator-cha-jian-shi-yong-fang-shi.md)
 * [Thrift插件生成Java代码](gou-jian-xiang-mu/thrift-cha-jian-sheng-cheng-java-dai-ma.md)
