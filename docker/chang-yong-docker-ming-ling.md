@@ -11,5 +11,9 @@ Redis启动：docker run -it --rm redis:5.0.4 redis-cli -h 机器ip
 
                       docker exec -it redis redis-cli
 
+启动Zookeeper：
+
+                       docker exec -it 容器id zkCli.sh
+
 
 
