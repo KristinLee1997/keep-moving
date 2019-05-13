@@ -27,5 +27,6 @@
 
 ## 分布式
 
+* [分布式锁类型](fen-bu-shi/fen-bu-shi-suo-lei-xing.md)
 * [分布式锁](fen-bu-shi/fen-bu-shi-suo.md)
 
